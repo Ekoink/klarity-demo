@@ -1,0 +1,12 @@
+{
+  "name": "klarity-demo",
+  "version": "1.0.0",
+  "description": "Klarity Health Provider Portal — Hackathon Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
